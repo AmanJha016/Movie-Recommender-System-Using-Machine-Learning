@@ -86,3 +86,28 @@ here is a demo,
 4 . It will be a value between [0,1]. If it is 0 then both vectors are complete different. But in the place of that if it is 1, It will be completely similar.
 
 5 . For more details , check URL : https://www.learndatasci.com/glossary/cosine-similarity/
+
+# 📂 Project Structure
+
+```
+Movie-Recommender-System-Using-Machine-Learning/
+│
+|── app.py
+|
+├── data/
+│   ├── tmdb_5000_credits.csv
+|   |── tmdb_5000_movies.csv
+|
+├── similarity.pkl
+│    
+├── movie_dict.pkl
+│
+├── Movie Recommender System Data Analysis.ipynb
+|
+├── venv/
+|
+├── demo
+
+```
+
+
